@@ -1,12 +1,13 @@
-<h1>👋 Hi, I’m Pravat</h1>
+
+<h1><p align=center>👋 Hi, I’m Pravat</p></h1>
 
 <div style="width:100%;height:0;padding-bottom:50%;position:relative;">
 <p align="center">
-  <img src="https://media2.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif?cid=ecf05e47hsjfee1fkux1o4pyolbzpvuf9rdtu7nt34waghsc&rid=giphy.gif&ct=g"/ width="70%" height="100%" style="position:absolute" frameBorder="0" >
-  </p>
+ <img src="https://media2.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif?cid=ecf05e47hsjfee1fkux1o4pyolbzpvuf9rdtu7nt34waghsc&rid=giphy.gif&ct=g"/ width="70%" height="100%" style="position:absolute" frameBorder="0">
+ </p>
 </div>
 
-- 👀 I’m interested in software engineering
+- 💻 I’m a software engineering
 - 📔 I’m currently learning java(spring)
 - 🔭 I’m looking for opportunities
 - 📧 How to reach me: prabcrist@gmail.com
@@ -21,7 +22,7 @@
 ![Pravavlo GitHub stats](https://github-readme-stats.vercel.app/api?username=pravavlo&theme=tokyonight&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravavlo&theme=blue-green&layout=compact)](https://github.com/pravavlo/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pravavlo&repo=github-readme-stats)](https://github.com/pravavlo/github-readme-stats)
 <!---
 pravavlo/pravavlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
