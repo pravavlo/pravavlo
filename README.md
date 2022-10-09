@@ -1,5 +1,5 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-  <img src="https://media2.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif?cid=ecf05e47hsjfee1fkux1o4pyolbzpvuf9rdtu7nt34waghsc&rid=giphy.gif&ct=g"/ width="100%" height="100%" style="position:absolute" frameBorder="0" >
+<div style="width:100%;height:0;padding-bottom:50%;position:relative;">
+  <img src="https://media2.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif?cid=ecf05e47hsjfee1fkux1o4pyolbzpvuf9rdtu7nt34waghsc&rid=giphy.gif&ct=g"/ width="50%" height="50%" style="position:absolute" frameBorder="0" >
 </div>
 
 - 👋 Hi, I’m @pravavlo
@@ -17,7 +17,7 @@
 
 ![Pravavlo GitHub stats](https://github-readme-stats.vercel.app/api?username=pravavlo&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravavlo&theme=blue-green)](https://github.com/pravavlo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravavlo&theme=blue-green&layout="compact")](https://github.com/pravavlo/github-readme-stats)
 <!---
 pravavlo/pravavlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
