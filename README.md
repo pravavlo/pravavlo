@@ -1,12 +1,15 @@
+<h1>👋 Hi, I’m Pravat</h1>
+
 <div style="width:100%;height:0;padding-bottom:50%;position:relative;">
-  <img src="https://media2.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif?cid=ecf05e47hsjfee1fkux1o4pyolbzpvuf9rdtu7nt34waghsc&rid=giphy.gif&ct=g"/ width="50%" height="50%" style="position:absolute" frameBorder="0" >
+<p align="center">
+  <img src="https://media2.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif?cid=ecf05e47hsjfee1fkux1o4pyolbzpvuf9rdtu7nt34waghsc&rid=giphy.gif&ct=g"/ width="70%" height="100%" style="position:absolute" frameBorder="0" >
+  </p>
 </div>
 
-- 👋 Hi, I’m @pravavlo
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning java(spring)
-- 💞️ I’m looking to collaborate on C#.Net frameworks
-- 📫 How to reach me https://www.linkedin.com/in/prabhat-yadav-215a921a0/
+- 📔 I’m currently learning java(spring)
+- 🔭 I’m looking for opportunities
+- 📧 How to reach me: prabcrist@gmail.com
 
 **Languages and Tools:**
 
@@ -17,7 +20,8 @@
 
 ![Pravavlo GitHub stats](https://github-readme-stats.vercel.app/api?username=pravavlo&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravavlo&theme=blue-green&layout="compact")](https://github.com/pravavlo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravavlo&theme=blue-green&layout=compact)](https://github.com/pravavlo/github-readme-stats)
+
 <!---
 pravavlo/pravavlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
