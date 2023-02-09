@@ -1,7 +1,8 @@
 name: Gnerate snak game
-on: 
- schedule:
-  -cron: "0 */2 * * *"
+
+on:
+  schedule:
+  - cron: "0 */4 * * *"
   
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
