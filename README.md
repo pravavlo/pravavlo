@@ -2,8 +2,8 @@
 <h1><p align=center>👋 Hi, I’m Pravat</p></h1>
 
 <div style="width:100%;height:0;padding-bottom:50%;position:relative;">
-<p align="center">
- <img src="https://media2.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif?cid=ecf05e47hsjfee1fkux1o4pyolbzpvuf9rdtu7nt34waghsc&rid=giphy.gif&ct=g"/ width="70%" height="100%" style="position:absolute" frameBorder="0">
+<p align="right">
+ <img src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>"/ width="490px" height="315px" style="position:absolute" frameBorder="0">
  </p>
 </div>
 
