@@ -1,6 +1,7 @@
 
 <h1><p align=center>👋 Hi, I’m Pravat</p></h1>
 
+[![snake gif](https://github.com/pravavlo/pravavlo/blob/output/github-contribution-grid-snake.svg)]
 <div style="width:100%;height:0;padding-bottom:50%;position:relative;">
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611fca697cfee1a1c2c2bdaa5319112236e0e0fdb6d&rid=giphy.gif&ct=g" width="490px" height="230px" />
 </div>
@@ -23,12 +24,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravavlo&theme=blue-green&layout=compact)](https://github.com/pravavlo/github-readme-stats)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
+
+
 <!---
+
 pravavlo/pravavlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
