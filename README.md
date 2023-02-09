@@ -3,7 +3,7 @@
 
 [![snake gif](https://github.com/pravavlo/pravavlo/blob/output/github-contribution-grid-snake.svg)]
 <div style="width:100%;height:0;padding-bottom:50%;position:relative;">
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611fca697cfee1a1c2c2bdaa5319112236e0e0fdb6d&rid=giphy.gif&ct=g" width="490px" height="230px" />
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611fca697cfee1a1c2c2bdaa5319112236e0e0fdb6d&rid=giphy.gif&ct=g" width="480px" height="200px" />
 </div>
 
 <h3>- 💻 I’m a software engineering</h3>
