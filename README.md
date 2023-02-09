@@ -6,10 +6,10 @@
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611fca697cfee1a1c2c2bdaa5319112236e0e0fdb6d&rid=giphy.gif&ct=g" width="490px" height="230px" />
 </div>
 
-- 💻 I’m a software engineering
-- 📔 I’m currently learning java(spring)
-- 🔭 I’m looking for opportunities
-- 📧 How to reach me: prabcrist@gmail.com
+<h3>- 💻 I’m a software engineering</h3>
+<h3>- 📔 I’m currently learning java(spring)</h3>
+<h3>- 🔭 I’m looking for opportunities</h3>
+<h3>- 📧 How to reach me: prabcrist@gmail.com</h3>
 
 **Languages and Tools:**
 
