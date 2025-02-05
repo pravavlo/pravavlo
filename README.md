@@ -8,7 +8,7 @@
 
 ### <h2>🧑🏻‍💻About me</h2>
 <h4>- 💻 I’m a software engineering</h3>
-<h4>- 📔 I’m currently learning java(spring)</h3>
+<h4>- 📔 I’m currently working as a software engineer</h3>
 <h4>- 🔭 I’m looking for opportunities</h3>
 <h4>- 📧 How to reach me: prabcrist@gmail.com</h3>
 
